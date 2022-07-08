@@ -1,0 +1,9 @@
+{
+  "canisters": {
+    "hello": {
+      "main": "src/hello/main.mo",
+      "type": "motoko"
+    }
+  },
+  "version": 1
+}
